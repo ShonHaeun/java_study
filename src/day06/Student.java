@@ -1,5 +1,5 @@
 package day06;
-
+//되라 제발
 public class Student {
 	int no;
 	String name;
