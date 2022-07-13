@@ -1,5 +1,5 @@
 package day04;
-
+//수정본 
 public class MathTest {
 
 	public static void main(String[] args) {
